@@ -1,0 +1,9 @@
+#! /usr/bin/bash
+# This script for first install on servers (Centos 6.x)
+# Function:
+# 1. Create user for admin (No relised)
+# 2. Install man, mc, full version Vim (No relised)
+# 3. Add root to user (visudo) (No relised)
+# 4. Randomize port for ssh (No relised)
+# 5. Print information about results (No relised)
+
